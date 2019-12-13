@@ -1,0 +1,24 @@
+{
+  "name": "react-hooks",
+  "version": "1.0.0",
+  "description": "Hook collection for generic web development tasks when developing with react",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gbozee/react-hooks.git"
+  },
+  "keywords": [
+    "react",
+    "hooks",
+    "social-login"
+  ],
+  "author": "Biola (B33sama)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gbozee/react-hooks/issues"
+  },
+  "homepage": "https://github.com/gbozee/react-hooks#readme"
+}
